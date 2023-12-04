@@ -1,9 +1,8 @@
 #!/bin/bash
 
-#########################################################################################################
-#													#
-# Nicolas Thompson											#
-# 11-03-2023 (CAT II)											#
+#########################################################################################################										#
+# Nicolas Thompson											                                            #
+# 11-03-2023 (CAT II)											                                        #
 # It defines the path to the configuration file and the desired minimum password length, then           #
 # checks if the "minlen" parameter is already set in the configuration file. If the parameter is found, #
 # it checks if the current value is less than the desired minimum length.                               #
